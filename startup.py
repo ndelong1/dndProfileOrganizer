@@ -1,7 +1,7 @@
 #creates a player's Character instance, and stores all items
 
 #Assist Player in Character build
-from Player import *
+from player import *
 from rollAttribute import *
 
 
